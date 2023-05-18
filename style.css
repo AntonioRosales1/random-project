@@ -10,9 +10,9 @@ body {
 }
 
 .meme-generator img {
-  height: 330px;
-  width: 70%;
-  object-fit: cover;
+  width: 500px;
+  height: 500px;
+  object-fit: contain;
 }
 
 .generate-meme-btn {
